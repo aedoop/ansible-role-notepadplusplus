@@ -1,0 +1,12 @@
+---
+# vars file for notepadplusplus
+
+dirs_info:
+  Windows:
+    tmp: C:\tmp
+
+packages_info:
+  7.5.1:
+    Windows:
+      file: notepadplusplus.install.7.5.1.nupkg
+      pull: ftp://10.0.250.100/pub/notepadplusplus/notepadplusplus.install.7.5.1.nupkg
